@@ -1,0 +1,10 @@
+com\freesite\qa\base\TestBase.class
+com\freesite\qa\pages\DealsPage.class
+com\freesite\qa\pages\TasksPage.class
+com\freesite\qa\pages\LoginPage.class
+com\freesite\qa\pages\SignUpPage.class
+TestTry\TryClass.class
+com\freesite\qa\ExtentReportListener\ExtentReportNG.class
+com\freesite\qa\pages\ContactsPage.class
+com\freesite\qa\util\TestUtil.class
+com\freesite\qa\pages\HomePage.class
